@@ -8,7 +8,10 @@
 
 ## OOPs Concepts Covered By Project
   - Encapsulation
-  - Access Modifiers 
+  - Access Modifiers
+  - Class Object
+  - Constructors
+  - Static Keyword
   
   
   
